@@ -116,5 +116,13 @@
       "unrs-resolver"
     ]
   },
-  "registry": "https://registry.npmjs.org/"
+  "registry": "https://registry.npmjs.org/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/umi-labs/brand-palette-plugin"
+  },
+  "homepage": "https://github.com/umi-labs/brand-palette-plugin#readme",
+  "bugs": {
+    "url": "https://github.com/umi-labs/brand-palette-plugin/issues"
+  }
 }
